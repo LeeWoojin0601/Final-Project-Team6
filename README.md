@@ -1,5 +1,5 @@
 # 자동화된 자산 관리 시스템
-<img width="1380" alt="스크린샷 2023-06-28 오전 11 22 37" src="https://github.com/cs-devops-bootcamp/devops-04-Final-Team6/assets/107831623/6142e9d1-4ab7-4928-8f20-6f3f65acaa11">
+<img width="1380" src="https://github.com/LeeWoojin0601/Final-Project-Team6/blob/main/Architecture.png">
 
 ## 프로젝트 소개
 
